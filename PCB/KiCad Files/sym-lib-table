@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "CARTE_DOMO_SYMB")(type "KiCad")(uri "${KIPRJMOD}/CARTE_DOMO_SYMB.kicad_sym")(options "")(descr ""))
+)

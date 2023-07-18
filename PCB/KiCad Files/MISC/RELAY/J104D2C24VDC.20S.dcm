@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP J104D2C24VDC.20S
+D RELAY GEN PURPOSE DPDT 2A 24V
+K
+F https://www.citrelay.com/Catalog Pages/RelayCatalog/J104D.pdf
+$ENDCMP
+#
+#End Doc Library

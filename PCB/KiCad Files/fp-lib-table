@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "CARTE_DOMO_EMP")(type "KiCad")(uri "${KIPRJMOD}/CARTE_DOMO_EMP.pretty")(options "")(descr ""))
+)
